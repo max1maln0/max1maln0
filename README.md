@@ -26,7 +26,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react, js, ts, tailwind, next, python, go, fastapi, postgres, mysql, git" />
+  <img src="https://skillicons.dev/icons?i=react, js, ts, tailwind, python, go, fastapi, postgres, mysql, git" />
 </p>
 
 ---
