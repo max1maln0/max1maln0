@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Maxim</h1>
-<h3 align="center">Fullstack developer • Telegram Mini Apps • Python Bots</h3>
+<h3 align="center">Fullstack developer • System Analyst • Telegram Mini Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zhaba1337228&color=blue" />
